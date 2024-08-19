@@ -1,2 +1,1 @@
-# java-app
-java app with bazel build
+# java-bazel-repo
